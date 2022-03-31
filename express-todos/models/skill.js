@@ -1,16 +1,8 @@
-// const skills = [
-// 	{id: 125223, todo: 'Feed Dogs', done: true},
-// 	{id: 127904, todo: 'Learn Express', done: false},
-// 	{id: 139608, todo: 'Buy Milk', done: false}
-//   ];
-
-
-
 
 const skills = [
-  { id: 001, skill: "HTML", rank: 2 },
-  { id: 002, skill: "CSS", rank: 3 },
-  { id: 003, skill: "JAVASCRIPT", rank: 2 },
+  { id: 05121, skill: "HTML", rank: 2 },
+  { id: 12512, skill: "CSS", rank: 3 },
+  { id: 57112, skill: "JAVASCRIPT", rank: 2 },
 ];
 
 module.exports = {
